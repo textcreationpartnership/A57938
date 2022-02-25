@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joshua's resolution to serve the Lord Containing the resolution of every true Christian, fully and wholly to cleave unto the Lord, and to dedicate himself to the Lord and his service. Wherein is shewed, what the resolution of a Christian is. And the reasons of the necessity of this resolution with a word of exhortation both to private, and family worship. To which is added, a prayer for a family. By Robert Russel in Sussex. Licensed according to order.</title>
+            <author>Russel, Robert, fl. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57938</idno>
+            <idno type="STC">Wing R2347F</idno>
+            <idno type="STC">ESTC R221582</idno>
+            <idno type="EEBO-CITATION">99832879</idno>
+            <idno type="PROQUEST">99832879</idno>
+            <idno type="VID">37354</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37354)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2152:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joshua's resolution to serve the Lord Containing the resolution of every true Christian, fully and wholly to cleave unto the Lord, and to dedicate himself to the Lord and his service. Wherein is shewed, what the resolution of a Christian is. And the reasons of the necessity of this resolution with a word of exhortation both to private, and family worship. To which is added, a prayer for a family. By Robert Russel in Sussex. Licensed according to order.</title>
+                  <author>Russel, Robert, fl. 1692.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare at the Lookding-glass on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Some print faded.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37354:1" rendition="simple:additions"/>
+            <p>JOSHUA's Reſolution TO Serve the Lord.</p>
+            <p>CONTAINING, The <hi>Reſolution</hi> of every True Chriſtian, fully and wholly to Cleave unto the Lord, and to Dedicate himſelf to the Lord and his Service.</p>
+            <p>Wherein is Shewed, What the <hi>Reſolution</hi> of a Chriſtian is. And the Reaſons of the Neceſſity of this <hi>Reſo<g ref="char:EOLhyphen"/>lution</hi> With a <hi>Word of Exhortation</hi> both to Private, and Family Worſhip.</p>
+            <p>
+               <hi>To which is Added,</hi> A Prayer for a Family.</p>
+            <p>By <hi>Robert Ruſſel</hi> in <hi>Suſſex.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Jer 10.25.</hi>
+               </bibl>
+               <p>Pour out thy Fury upon the Heathen that know thee not, and upon the Family that call not upon thy Name.</p>
+            </q>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Blare</hi> at the <hi>D<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>ing glaſs</hi> on <hi>London-Bridge.</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:37354:2"/>
+            <head>
+               <hi>Joshua</hi>'s Reſolution, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Joſhua 24. part of verſ. 15.</hi>
+                  </bibl>
+                  <p>But as for me and my houſe, we will ſerve the Lord.</p>
+               </q>
+            </epigraph>
+            <p>THeſe are the words of <hi>Joſhua</hi> to the Tribes of <hi>Iſrael;</hi> for <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ving, in this chapter, de<g ref="char:EOLhyphen"/>clared unto them, the many benefits which God, of his mercy hath beſtowed on them, as particular in verſ. <hi>15.</hi> in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at he hath given them a Land they laboured nor for; and Cities which they bui<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot; and Vineyards, and Oliveyards to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at of, wh<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> they planted not, <hi>Joſhua</hi> having thus laid before their <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God's benefits; he in verſe <hi>14.</hi> Exhorts them, to offer unto God a thankful and obedient heart, for thoſe benefits which he hath beſtowed upon them. <hi>Now therefore, fear the Lord, and ſerve him in ſincerity and in truth: And put away the gods which your Fathers ſerved, &amp; ſerve ye the Lord.</hi> And ſo I fall immediatly upon the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Text, wherein we have theſe two things conaderable.</p>
+            <p>Firſt, The freedom which <hi>Joſhua</hi> ſeems to give the Tribes of <hi>Iſrael,</hi> in caſe they refuſe to ſerve the Lord, that they ſhould chuſe who they will ſerve.</p>
+            <p>Secondly, His Reſelution concerning himſelf and his family: <hi>As for me and my houſe we will ſerve the Lord.</hi>
+            </p>
+            <p>Now in this ſmall Book I ſhall joyn theſe two together into this one Obſervation: that is, How ever the Men of this world live, what ever they do, what ways ſoever they follow; a Child of God is
+<pb n="3" facs="tcp:37354:2"/>fully bent, and reſolved to cleave to the Lord, &amp; to cake care that his family, and all under his charge, walk in the ways of Holyneſs and Piety.</p>
+            <p>Now for my funderſtandling of this Subject, I ſhall praceed after this manner.</p>
+            <p>Firſt, I ſhall ſhew you what the Reſolution of a Chriſtian is. Secondly, the Reaſons of this Re<g ref="char:EOLhyphen"/>ſolution. And laſtly, the Application.</p>
+            <p>Firſt, to ſhew you what the Reſolution of a chri<g ref="char:EOLhyphen"/>ſtian is. Firſt, it is a full and firm Reſolution. Secondly, it is a preſent reſolution. Thirdly, it is a ſettle and deliberate revolution. Firſt, the re<g ref="char:EOLhyphen"/>ſolution of a Chriſtian is, a full and firm reſolution, the men of this world they naturally chuſe Sin, Death and Hell, they chuſe death and damnation, before life and ſalvation, they reſolutely run on in the ways of Luxery, Wantonneſs, Drinking, Gam<g ref="char:EOLhyphen"/>ing, and all manner of lewd and looſe Practices, and tho' they are told and told again, both by the Meſſen<g ref="char:EOLhyphen"/>gers of God's word, and their godly friends, whe<g ref="char:EOLhyphen"/>ther theſe ungodly ways will lead them, yet they will run on ſtill, and take their own courſe, as if they were in love with their own ruin and deſtructi<g ref="char:EOLhyphen"/>on. But a true Chriſtian, after all his Reproofs and Admonitions, when he finds that they will not be reclaimed, he as it were hids them take their courſe, and chuſe whom they will ſerve, as <hi>Joſhua</hi> did the people of <hi>Iſrael.</hi> But for his part, he reſol<g ref="char:EOLhyphen"/>ved with full bent and purpoſe of heart, to give him<g ref="char:EOLhyphen"/>ſelf up to the Lord, and chooſe him for his portion, and to yield up himſelf ſoul and body as inſtrument for his ſervice. Now the reſolution of a chriſtian
+<pb n="4" facs="tcp:37354:3"/>is not a ſick bed promiſe, but a full bent and purpoſe of heart; to lead a new life, there are many that fa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly promiſe, but few reſolve, every weak promiſe is not a full reſolution. Alas! how many are there who under a ſharp fit of ſickneſs, or under ſome judgment ready to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efal them, they will promiſe fair what a now Creature they will become, what new lives they will lead, how holy and how purely they will live, but if it pleaſe God to ſpare them, &amp; give them a time of reſpire, then how ſoon are theſe vows and promiſes forgot, thus the Children of <hi>Iſrael,</hi> how fairly did they promiſe, <hi>Deut. 5.27. All that the Lord our God ſhall ſpeak, we will hear and do.</hi> But tho' they had a tongue to promiſe, yet they had no heart to perform, as you may ſee verſ. <hi>29. O that then ſuch an heart in them, that they would fear me, and keep my commandments, that it may be well with them.</hi> But as for a ſincere returning ſinner, he not only promiſes, but reſolves to yield up him<g ref="char:EOLhyphen"/>ſelf body and ſoul to be the Lord's, yea, the whole frame of his heart is bent that way, as an unconver<g ref="char:EOLhyphen"/>ted wicked ſinner goes on in ſin with a full purpoſe of heart, even ſo a returning ſinner, who is a com<g ref="char:EOLhyphen"/>ing to Ieſus Chriſt, ſerves him with full Purpoſe, and reſolution of heart. And as a wicked reſolute ſinner, neither Mercies nor Iudgments, neither Re<g ref="char:EOLhyphen"/>proofs nor Admonitions, neither Perſwading, nor Intreating by Miniſters nor Friends, will ſtop him in his ſinful Courſe, ſo on the other ſide, a return<g ref="char:EOLhyphen"/>ing ſinner, that is reſolved for Chriſt and Holi<g ref="char:EOLhyphen"/>neſs, will not be drawn back, neither by promiſes nor threatnings, neither by frowns nor flatteries,
+<pb n="5" facs="tcp:37354:3"/>let his ſinful Companions <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntice him by never ſo many orguments, he will not conſent, but he is full ben<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and reſolved for Heaven and Happineſs, what<g ref="char:EOLhyphen"/>ever it coſt him, and therefore ſeeing the weakneſs of his own fleſh, and his natural inclination to be overcome by the leaſt temptation, therefore he plys the chrone of Grace, and there he pours out earneſt prayers and ſupplications for the aſſiſtance of divine grace to ſtreng then him in the inner man, he daxes not truſt to his own ſtrength, he conſiders how ſoon <hi>Peter</hi> was overcome, notwithſtanding his Reſolu<g ref="char:EOLhyphen"/>tion to ſtand ſaying, If I ſhould dye with thee I will not deny thee, and yet becauſe he was to conſi<g ref="char:EOLhyphen"/>dent of his own ſtrength it pleaſed Bod for his tryal to leave him to himſelf, how ſoon he denyed and forſwore his Lord and Saviour, he began to curſe and ſwear that he knew him not, <hi>Mat. 26.</hi> Now I ſay a returning ſinner, conſidering this, he dares not reſolve in his own ſtrength, but Labours and orders in the uſe of all means to get ſtrength from Heaven, and in the ſtrength of Chriſt, he ſtrides and labours to go on towards the Heavenly mark he aims at, he reſts not in any certain attainments, but truly reſolves by the help of Divine Grace to<g ref="char:EOLhyphen"/>wards the mortification of the whole body of ſin, and for the attainment of Grace and Holineſs unto per<g ref="char:EOLhyphen"/>fection.</p>
+            <p>And after he had done his beſt, yet ſtill he feels Luſt to be ſtrong in him and grace weak, therefore he is more and more outragious againſt his natural in<g ref="char:EOLhyphen"/>clinations, and his earneſt de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, and endeavours to be more and more humble, more patient, more
+<pb n="6" facs="tcp:37354:4"/>meek, more holy, and more heavenly, let the De<g ref="char:EOLhyphen"/>vil tempt him with Riches, Honour, Long-li<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and all Earthly Happineſs on condition, that he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> back again into the ways of ſin, yet <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will not yield, but reſiſt him with all his might a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſtrength, nay, though all the Powers of Hell ſeek their utmoſt endeavours to d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw him back, though the Fleſh in<g ref="char:EOLhyphen"/>tice, and the wicked World uſe all means to diſ<g ref="char:EOLhyphen"/>courage him, yet, in ſpire of them all, he is reſol<g ref="char:EOLhyphen"/>ved to go on in his Holy Courſe, for neither Death, nor Life, nor Principalities, nor Powers, nor Height, nor Depth, nor any Creature, is able to Seperate him from the love of God, which is in Ieſus Chriſt our Lord, <hi>Rom. 8.</hi> Thus a ſincere returning Sinner is fully beat and reſolved to give himſelf up Body and Soul to the Lord. And the whole frame and bent of his heart is towards Grace and Holyneſs. That is the firſt thing Conſidera<g ref="char:EOLhyphen"/>ble, that a Chriſtians Reſolution, is a full Re<g ref="char:EOLhyphen"/>ſolution.</p>
+            <p>Secondly, It is a preſent Reſolution, he is not for delays and put offs, but reſolves preſently to turn. A Man, you know, that is fully bent and reſolved to do a. thing, his earneſt deſire is to be about it, that it may be done, he is not for putting it off from one time to another, as if he did not care whether it were done or no. Even ſo a Chriſtian that is fully bent and reſolved after Grace and Ho<g ref="char:EOLhyphen"/>lineſs, be longs and deſires for the attainment of his Holy Ends, the whole frame of his heart is ſet that way, and therefore he preſently ſets about the Work without delay. Indeed a Hypocrite has ma<g ref="char:EOLhyphen"/>ny
+<pb n="7" facs="tcp:37354:4"/>purpoſes and reſolutions to Repent, and be<g ref="char:EOLhyphen"/>come a New Creature, but he delays and puts off from one time to another, being loath, for <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e preſent, to part with ſweet Sin, with his Beloved Luſt, which ſhews that his reſolution is not a firm and ſettle reſolution, his purpo<g ref="char:EOLhyphen"/>ſes are unſound and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ipocritical. There was one, <hi>Luke 9.61.</hi> who made a kind of a reſoluti<g ref="char:EOLhyphen"/>on to follow Chriſt, but this reſolution was not for the preſent, he begged liberty to go once more to his ſinful Companions, and take his leave of them: <hi>Lord,</hi> ſaith he, <hi>I will follow thee, but let me firſt go and bid them farewel, which are at home at my houſe.</hi> This ſhews that his purpoſe and reſolution was not ſincere, he made a kind of a reſolution to follow Chriſt. But here lyes the caſe, there was not a thorow change wrought in him, he had not rooted out his Beloved ſin, the frame and bent of his heart was more towards the following of his Luſt, than it was to follow Chriſt, therefore, in ſetting his hand to the Plow, by making a reſolution to follow Chriſt, and yet looking back with pleaſure and delight upon his old ſinful courſe of life, he was not fit for the Kingdom of Heaven, as our Saviour tells him, verſe <hi>62. Lord,</hi> ſaith he, <hi>I will follow thee, but let me firſt go and bid them farewel which are at home at my houſe.</hi> Thus a Wicked Man, when he is intreated and perſwaded by a Miniſter of God's Word, or by any of his Godly Relations, to Repent and forſake his Evil Practices, and to lead a New
+<pb n="8" facs="tcp:37354:5"/>Life, he perhaps under theſe Godly Admonitions, makes fair promiſes, and has ſome Purpoſes and Reſolutions to Repent, and become a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Crea<g ref="char:EOLhyphen"/>ture, and yet, notwithſtanding theſe purpoſes and reſolutions, he has many delays and put offs, be<g ref="char:EOLhyphen"/>cauſe his heart remains ſtill wedded to his <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, the Drunkard <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e promiſes that he will return and fol<g ref="char:EOLhyphen"/>low Chriſt, but he takes leave firſt to go once more to the Ale-houſe, and take leave of his Drunken Companions, and take one merry Cup more with them, and then he will come and follow Chriſt. He has friends at home at his Houſe, and he muſt firſt go and take his leave of them, and make one merry meeting more among t em, and enjoy a little more of their Iovial Company, and then he will follow Chriſt. The Covetous he muſt have <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ave firſt to perſue after a little more of this worlds Goods, and then he will follow Chriſt. The Valupteous he muſt have leave firſt to partake a little more of the Sweet of Sin, he muſt enjoy a little more of his Beloved Pleaſure, he muſt down with one ſweet Morſel more, and then he will follow Chriſt. Thus Sin is ſo ſweet unto a Wicked Man, the World and the Fleſh is ſo bewitching, that notwithſtand<g ref="char:EOLhyphen"/>ing a Sinners fair promiſes and purpoſes to Re<g ref="char:EOLhyphen"/>pent and turn to God, that by theſe he is hindred of putting any thing into practice, but procraſerates and puts off from one time to another, until perhaps time is at an end, before he has done any thing in order to his Eternal Salvation.</p>
+            <p>But a Chriſtian that is fully and firmly reſolved to dedicate himſelf to the Lord and his Service, ſo
+<pb n="9" facs="tcp:37354:5"/>that the whole frame of his heart is bent that way, he is ſo far from delaying, and putting off from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne time to another, that he is even reſtleſs, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an find no contentment in any thing he enjoys, until he has got an intreſt in Chriſt, until he has got ſome aſſurance of the love of God, and the par<g ref="char:EOLhyphen"/>don of his Sins, it grieves him to the very heart, to think that he ſhould be ſo wild and folliſh, as to waſt ſo much of his precious time as he has done, in fleſhly Luſt, in abuſing of God's Mercy &amp; Good<g ref="char:EOLhyphen"/>neſs, and grieving his Spirit, in that he has made a good and gracious God wait upon him ſo many years, whilſt he continued to run on in a Courſe of Rebellion againſt him. And therefore he now re<g ref="char:EOLhyphen"/>ſolves, through the grace of God aſſiſting him from the time forward, to bid an everlaſting farewel to his beloved sin, he now fully reſolves to continue no longer in his ſinful courſe of life, he is ready to cry out with St. <hi>Auguſtin: How long ſhall I ſay to morrow to morrow, why ſhall not this day be the day of my Convertion.</hi> He therefore without delay ſets about the Work of Convertion, he now begins to beg labour and ſtrive to work out his Salvation. Thus a Chriſtians Reſolution is <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Preſent Reſolution.</p>
+            <p>Thirdly, and laſtly, a Chriſtians reſolution is a Settle and Deliberate Reſolution.</p>
+            <p>He doth not, as many do, take up a ſuddain and inconſiderate reſolution, to follow Chriſt. But he diligently conſiders, firſt, what it may coſt him to be a thro' Chriſtian; the death of his beloved Sin
+<pb n="8" facs="tcp:37354:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:37354:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:37354:7"/>that he knows it muſt coſt him, he knows he muſt part with every ſin; even with his moſt fleſh-plea<g ref="char:EOLhyphen"/>ſing ſin for Chriſt, or elſe he can't be no true Chri<g ref="char:EOLhyphen"/>ſtian. But he conſiders that it may coſt him the loſs of his Credit and Good-name, the loſs of his li<g ref="char:EOLhyphen"/>berty, nay the loſs of his life. Now a Penitent Sinner conſiders diligently of all theſe things be<g ref="char:EOLhyphen"/>fore he enters upon his Chriſtian courſe, leſt aftar he has gone far with Chriſt, Perſecution comes, and he Apoſtatize and falls away, and ſo his latter end be worſe than is beginning. <hi>What man,</hi> ſaith our Saviour, <hi>intending to build a Tower, ſettech not down firſt, and counteth the coſt, whether he have ſufficient to finiſh it, leſt happily after he has laid the Foundation and is not able to finiſh it, all that behold him begin to mock him, Luk. 14.28.29. So whoſoever,</hi> ſaith he, <hi>forſaketh not all that he hath cannot be my Deſciples, verſ. 33.</hi> Many have gone far with Chriſt. So far their intreſt lay with the intreſt of Chriſt, but when the intreſt of Chriſt, and their own Intreſt croſt, then they have Apoſta<g ref="char:EOLhyphen"/>tized and fell away. But on the contrary, a wiſe Chriſtian, before he enters upon a new Life, he firſt ſets down and counts the coſt, he conſiders upon <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> how ſadly he feſt when Chriſt had left him unto himſelf, notwithſtanding his ſtrong Reſolution ſaying, If all ſhould deny thee yet wiſt not I, there<g ref="char:EOLhyphen"/>fore he dares not purpoſe and reſolve in his own ſtrength, for he knows himſelf to be very weak, and cannot move one ſtep towards Heaven without Di<g ref="char:EOLhyphen"/>vine Aſſiſtance, therefore he is night and day in ear<g ref="char:EOLhyphen"/>neſt prayer to God for ſtrength from Heaven, and ſo
+<pb n="11" facs="tcp:37354:7"/>in the ſtrength of Chriſt he is reſolved to take him for better and for worſe, he is reſolved to run all ha<g ref="char:EOLhyphen"/>zards with him, he is reſolved to venture all for him, to venture the loſs of a good name, the loſs of liberty, and the loſs of life it ſelf, as he expects to Reign with Chriſt, ſo he reſolves to chooſe him with all his Offices, as a Prophet to inſtruct him, as a King to Reign over him, and Rule in him, as a Sa<g ref="char:EOLhyphen"/>viour to ſave him from ſin as well as from puniſh<g ref="char:EOLhyphen"/>ment, he is reſolved to oft with his Right-hand ſins, and out with his Right-Eye ſins, he is reſolved to ſpare no ſin, but to ſtrive againſt it, watch againſt it; and fight againſt it with all his might. He is reſolved to take Chriſt as he is offered upon ſelf de<g ref="char:EOLhyphen"/>nying terms, he is reſolved to give up himſelf body and ſoul to Chriſt to walk with him, to ſuffer with him, and to dye with him, if he be called thereunto, he is reſolved to forſake all for him that ſtands in com<g ref="char:EOLhyphen"/>petion with him, and ſo to live by faith, and reſt fully and wholly upon his word and promiſe for Eternal Salvation, he is reſolved to follow Chriſt thorow all difficulties and dangers, thorow ſufferings and per<g ref="char:EOLhyphen"/>frentions thorow life and death, until he comes to Reign with Chriſt in Glory.</p>
+            <p>Thus have I done with the firſt thing conſidera<g ref="char:EOLhyphen"/>ble, what the Reſolution of a Chriſtian is, I muſt be very brief in what follows.</p>
+            <p>Secondly, the reaſon of the neceſſity of this Reſo<g ref="char:EOLhyphen"/>lution. Now for a Chriſtian to make a ſettle firm Reſolution is very neceſſary.</p>
+            <p>Firſt, Becauſe that until a man ſets a firm and
+<pb n="12" facs="tcp:37354:8"/>full Reſolution to turn to God. He is in a ready way to fall by every temptation, he is and to put off and delay his repentance from time to time, he is ſtill lyable to give himſelf more and more liberty to all kind of Wickedneſs, to let the Bridle looſe to his Luſt; nay, until a man comes unto a full and ſettle reſolution, he lyes in the reade road to open Prophaneſs, and to the Neglect of God and Holy Duties. And when he performs Duties, it is with ſuch Coldneſs and Formality, as if he cared not whether he performed them or no. But when a man comes to a reſolved Point, when the whole frame and bent of his heart is ſet toward Chriſt and Holyneſs, then there will appear earneſt endeavors after the Thing reſolved upon, when once a Sin<g ref="char:EOLhyphen"/>ner comes to be fully reſolved, then he delays no longer, but immediatly ſets about the Work of Converſion, then he is upon his Watch, and puts on the Whole Armor of God, and ſtrive and ſight againſt Sin and Spiritual Wickedneſs. This was the Reſolution of <hi>Job, Job 31.1. I made a Covenant with mine Eyes, why then ſhould I think upon a Maid,</hi> as if he had ſaid, <hi>I have Reſol<g ref="char:EOLhyphen"/>ved and made a Covenant with my ſelf, as much as in me lyes, to avoid all temptation to ſin, why then ſhould I run my ſelf into temptation.</hi> This alſo was the Reſolution of <hi>David, Pſalm 39.1. I ſaid I will take heed to my ways that I ſin not with my tongue, I will keep my mouth with a Bridle.</hi> And this is the Reſolution of every true Chriſtian, a ſettle, firm and ſincere Reſolution is a great E<g ref="char:EOLhyphen"/>nemy to Sin and Satan.</p>
+            <pb n="13" facs="tcp:37354:8"/>
+            <p>Secondly, This Settle and firm Reſolution is neceſſary to Repentance, becauſe it is the firſt ſtep to Repentance. A man may do many things in order to a work of Converſion, yet if be hade not a ſettle and firm Reſolution to turn to God, he were as good do nothing. But when once a man comes to ſet up a Settle, Firm, and Sincere Hearty Re<g ref="char:EOLhyphen"/>ſolution, to cleave fully and wholly to the Lord, and to reſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e up all the faculties of his ſoul to him, then the work is more than half done. All the o<g ref="char:EOLhyphen"/>ther Duties of Chriſtianity will ſeem eaſy and plea<g ref="char:EOLhyphen"/>ſant. <hi>David</hi> he reſolved and ſwore, and therefore he would perform: <hi>I have ſworn,</hi> ſaith he, <hi>and therefore will perform, that I will keep thy Sta<g ref="char:EOLhyphen"/>tures, Pſalm 119.106.</hi>
+            </p>
+            <p>Thus much for the Doctrinal Part, I ſhall be very ſhort in the Application.</p>
+            <p>There is but one Vſe that I ſhall make of this point, and that ſhall be a Vſe of Exhortation. Is it ſo that whatever the People of <hi>Iſrael</hi> did, <hi>Joſhua</hi> was reſolved that he and his Houſe will ſerve the Lord; why, Beloved Friends, let me Exhort you, nay let me intreat you all to enter upon a full, ſtem, preſent, and ſettle deliberate Reſolution, that you and your Family will ſerve the Lord. In the firſt place make a Firm reſolution to give up your own ſelves to the Lord and his Service, let the Men of this World do what they pleaſe, if they will not be reformed let them take their Courſe, if they are ſo in love with Hell and Tamnation, ſo that they will run head-long thither, let them take their courſe
+<pb n="14" facs="tcp:37354:9"/>But my Dear Friends, into whoſe hands this little Book ſhall come, do you ſincerely reſolve to give up your ſelves to the Lord, and his ſer<g ref="char:EOLhyphen"/>vice, if others will be for Hell, do you reſolve to be for Heaven, whatever it doſt you, reſolve to cleave cloſe to the Lord, in oppoſition to the Malice of the Devil, the Inticements of the Fleſh, and the Temptations of this Wicked World. If wicked Men ſhould intice and ſeek to draw you into Sin with them, do not yield, but rather anſwer them as <hi>Joſeph</hi> did his Miſtreſs, <hi>How can I do this great Wickedneſs and ſin againſt God, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en. 39.9.</hi> If at any time any of your old ſinful Companions do intice, per<g ref="char:EOLhyphen"/>ſwade, and intrude you to go with them to Drinking, Gaming or any other Vile Exerciſe, reſolve with your ſelves, never to yield to none of their perſwading Arguments, labour to obey the Counſel of <hi>Solomon, Prov. My Son, if ſinners intice thee conſent thou not</hi> Friends, be Exhorted now to make a firm and ſtrong re<g ref="char:EOLhyphen"/>ſolution againſt all difficulties and dangers, and oppoſitions, dedicate your ſelves ſoul and body to the Lord, let others chooſe what they will, do you chooſe the Lord for your Portion, in all his Perſonal Relations, and in all his Eſſen<g ref="char:EOLhyphen"/>tial Perfections, reſolve to take him as a holy God, as a ſin-hating God, and labour to be holy, even as he is holy, <hi>1</hi> Per. <hi>1.16.</hi> And reſolve to chooſe the Laws of Chriſt as your rule and pattern, <hi>
+                  <hi>I</hi> have,</hi> ſaith <hi>David, ſtuck to thy teſtimonies, I have inclined my heart unto thy Statutes always,
+<pb n="15" facs="tcp:37354:9"/>even to the end, pſalm 119.31.</hi> Reſolve to take Chriſt in all his Offices, in all his Inconveni<g ref="char:EOLhyphen"/>ences, reſolve to run all hazards with him, be Exhorted now without delay, to bid an Everla<g ref="char:EOLhyphen"/>ſting farewel to all your ſins and from hence<g ref="char:EOLhyphen"/>forth make a firm Covenant with the Body and Soul to be his, ſaying, <hi>Lord I do here lament and am heartily grieved that <hi>I</hi> have ſpent ſo much of my time in Rebellion againſt thee, and in cha<g ref="char:EOLhyphen"/>ſing the ways of ſin; but <hi>I</hi> do here from this time forward, firmly reſolve to bid an utter defiance to all ſin, and through thy grace enabling me, now Covenant with thee to be thine, and to forſake all that is near and dear unto me in this world for thy ſake,</hi> I am reſolved never more to yield my ſelf a Servant to Sin and Satan but to watch againſt all Temptation, whether of proſperity or adverſity, but I do reſolve to take thee for my Portion and Hap<g ref="char:EOLhyphen"/>pineſs, promiſing and vowing to ſerve thee in Ho<g ref="char:EOLhyphen"/>lineſs and Righteouſneſs all the days of my Life, and, I do here fully reſolve to chooſe Ieſus Chriſt as the way to the Father, and to take my Lot with him, and to run all Hazards with him, reſting upon him alone, in his way for Salvation.</p>
+            <p>Secondly, Reſolve not only to give up your ſelves to the Lord, but reſolve to uſe your utmoſt en<g ref="char:EOLhyphen"/>deavours, that all under your charge may likewiſe ſerve the Lord, as <hi>Joſhua</hi> here did, not only reſolve to ſerve the Lord himſelf, but he reſolved both he and his houſe ſhould ſerve the Lord, ſo my Friends, you that are Houſholders and Governours of Families, let me exhort you to labour to ſet up the Worſhip of
+<pb n="16" facs="tcp:37354:10"/>God in your Familys, though you cannot inſpire grace into your Children and Servants, yet you may Labour to convince them of their Sin and Mi<g ref="char:EOLhyphen"/>ſery by Nature, you may Reprove them, and In<g ref="char:EOLhyphen"/>ſtruct and teach them in the principles of Religion, and joyn with them in Prayer and Holy Exerciſes. O it to dreadful to conſider, that there ſhould be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many thouſand Familys in the world that are Vn<g ref="char:EOLhyphen"/>godly and Prophane Familye, many Governours of Familys <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an take care that their Servants riſe ear<g ref="char:EOLhyphen"/>ly in the morning, and go about their work, they ca<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> take <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that they be diligent about their Bu<g ref="char:EOLhyphen"/>ſineſs, but they take no care about the concer<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their ſouls, they can take notice how they do their work and are ready to he outragious with them for exery fault, but yet can hear them curſe and ſwear, and ſee them Pront one the Lord's day, and ſee them live looſe and prophane Lives, and live in open Re<g ref="char:EOLhyphen"/>beſtian againſt the Lord, and yet take little or no no<g ref="char:EOLhyphen"/>tice of all this, they ſearce ever call upon their Ser<g ref="char:EOLhyphen"/>vants to Read nor Read themſelves unto them, nor yet do they Pray with them, except it be now and then upon a Lords day. For my part, I have been in many familys but I never med but with here and there one, where the worſhip of God, and Religious Exerciſes hath been ſet up among them, I may ſpeak it with ſhame enough. Moſt familys regard their Servants no better than they do, their very beſt they mind them no otherwiſe than to provoin for them Meat and Drink and Wages, and to ſee that they do their work, but never regard what be<g ref="char:EOLhyphen"/>comes of their poor immortal ſouls. Truly friends,
+<pb n="17" facs="tcp:37354:10"/>I am apt to think that there being ſuch a multitude of Prophane Irreligious familys among us in <hi>England,</hi> that it is a fore-runner of ſome ſad judg<g ref="char:EOLhyphen"/>ment approaching, for if the Scripture be the true Word of God, ſo indeed we muſt expect ſome ſad Calamity to befall us e're long, if there be not a ſpeedy Reformation in houſes and families, ſee what a threatning there lyes in the word of God againſt ſuch, <hi>Jer. 10.25. That the Lord will pour out his fury upon the Heathen that know him not, and upon the Nations that call not upon his Name.</hi> The Heathen here is meant all Vngodly Irreligi<g ref="char:EOLhyphen"/>ous familys. Let us, the People of this Land, have a care that this Sentance be not pronounced againſt us, many of late have complained of the badneſs of the Times, that Trading is dead, Mo<g ref="char:EOLhyphen"/>ney is ſcarce and every thing is dear. But friends let there but be a thought of Reformation in houſes and familys, and then you will as ſoon ſee as peace<g ref="char:EOLhyphen"/>able and happy Times as ever was known ſince <hi>England</hi> has been Inhabited. But if People will ſtill remain to be Irreligious and Profane in their familys, I am afraid that ſome ſadder Iudgment will befall us than ever yet we have ſeen, how can we expect deliverance from our Enemies and happy times, whilſt the worſhip of God is ſo much neg<g ref="char:EOLhyphen"/>lected and family Duties never regarded.</p>
+            <p>To Conclude, you that are Parents, Maſters, and Houſholders, if ever you deſire your own Good, and a bleſſing upon your familys and Vndertak<g ref="char:EOLhyphen"/>ings, and the good of this Nation, be intreated now to ſuffer the word of Exhortation, be exhorted
+<pb n="18" facs="tcp:37354:11"/>now no longer to neglect the Worſhip &amp; Service of God in your familys, but as often as you ſee your Servants and Children ſin againſt God reprove them where you ſee them ignorant inſtruct them Let me Counſel you to do this fit &amp; convenient op<g ref="char:EOLhyphen"/>portunity, to Catechiſe your Children and Ser<g ref="char:EOLhyphen"/>vants, at leaſt once every Week, and inſtruct them in the Principles of Religion every Lords day in the morning call them up <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yet then you do on other days, and as ſoon as they have done their ne<g ref="char:EOLhyphen"/>ceſſary Buſineſs, before you go with them to the pub<g ref="char:EOLhyphen"/>lick worſhip of God dead to them ſome part of Gods wood, and then give them ſome private inſtruction concerning what they have read, and call upon them to read ſome of God's word, and then joyn with them in Prayer, and after Publick Worſhip, call every out of them to an Account concerning the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they heard, and rub up their Memorys with it and edify them as much as you can with theſe good Inſtructions which the Preather has de<g ref="char:EOLhyphen"/>livered out of the wold of God, and then inſtruct them in the principles of Religion. <hi>And conclude the Evening of the Lords day in reading godly Conferences, and ſinging of Pſalms and Prayer. And every morning in the Week call your children and ſervants together, and pray with them, before they and you go about the works of your Calling. And let godly conferrence and prayer, be every Evenings Exerciſe before you go to Reſt, and make a ſet, firm and ſtrong Reſolution as</hi> Ioſhua <hi>did here, that let others chuſe whom they will ſerve, let every one of you make this Reſolution, ſaying:
+<pb n="19" facs="tcp:37354:11"/>As for me and my Houſe we will Serve the Lord.</hi>
+            </p>
+            <p>Now for your Help, I will ſet you a ſhort form of Prayer for a Family.</p>
+            <div type="prayer">
+               <head>A ſhort Prayer for a Family.</head>
+               <p>O Moſt gra<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s, moſt glorious, and ever bleſſed Lord God, who art perfect in Holyneſs, and infinite in all thy perfections, look down from Hea<g ref="char:EOLhyphen"/>ven, we beſeech thee, with in eye of pitty and com<g ref="char:EOLhyphen"/>paſſion upon thine unworthy Servants, ſinful <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and aſhes, who deſires at this time, with all Reve<g ref="char:EOLhyphen"/>rence and Humility, at this time to addreſs our ſelves unto thee, to offer up unto thee our Petitions and requeſts in thy Sons Name. But Lord, we do humbly acknowledge and confeſs, that our tranſgre<g ref="char:EOLhyphen"/>ſions are ſo many, and ſo grievous, that we are aſha<g ref="char:EOLhyphen"/>med to lift up our eyes to Heaven, or to take thy ho<g ref="char:EOLhyphen"/>ly Name into our poluted lips, for Lord we confeſs that we are conceived and born in ſin, we brought into this world a ſtock of Original Corruption, which we have derived from our firſt Parents, actu<g ref="char:EOLhyphen"/>al tranſgreſſion, and if that were not enough to make us miſerable for ever, we have gone on all our lives in a courſe of Actual Rebellion againſt thee, we are naturaly prone to all manner of Evil, but we are backward and averſe to any thing that is good ſo that we are born children of wrath, and Heirs of Hell and Damnation, and yet if we are not miſera<g ref="char:EOLhyphen"/>ble enough by Nature, we have done what <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> us
+<pb n="20" facs="tcp:37354:12"/>lyes to make our ſelves more miſerable. Lord we confeſs as we have grown in years, ſo we have en<g ref="char:EOLhyphen"/>creaſed in all manner of ſin and ungodlineſs, ſo than we have abuſed thy goodneſs, which ſhould have led us to Repentance, we have run wilfully into Sin, againſt the light of our knowledge, againſt the con<g ref="char:EOLhyphen"/>tritions of our own conſcience, we have grieved thy Spirit, wearied thy Patience, and turned a dead ear to thy heavenly calls, and ſlighted thy offers of Grace and Mercy through Ieſus Chriſt. Ah vile Wretches that we are, we have lived as if thou didſt ſend us into this world for nothing but to gratifie the fleſh, and pleaſe our Senſual Appetites, but we have forgot thoſe hye and holy ends which thou haſt made us for, which is to live to thy praiſe and glory, how often haſt thou ſtood knocking at the door of our hard hearts for entrance, but we have bared them up againſt thee by Impenitency and Vnbelief. If thou Lord ſhouldſt deal with us according to our de<g ref="char:EOLhyphen"/>parts, what can we expect at thy hands but wrath and our Everlaſting Condemnation, but Lord, as thou haſt one of thine unſpeakable love toward man<g ref="char:EOLhyphen"/>kind, ſent thy dear Son into the world, to be a pro<g ref="char:EOLhyphen"/>ditiation for our ſins, and by his ſufferings and death to take away the ſins of the world, We humbly pray th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for has ſake, and for that bitter death and bloody paſſions ſake, which we belie be that he hath ſuffered for us, that thou wouldſt pardon and forgive us all our ſins, blot them, we beſeech thee, out of the book of thy Remembrance, nail them to his croſs and bury them in his grace, that they may never riſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p againſt us, to ſhame &amp; conſound us in this world.
+<pb n="21" facs="tcp:37354:12"/>or to condemn us forever in the World to come, &amp; to this end, Lord, we humbly pray thee that thou would give us a true &amp; lively faith in his merits. &amp; Lord let it not be a dead &amp; fruitleſs faith, but let it be a lively and active faith that we may bring forth the feuits of it in our lives and converſations, let us no longer live by ſence, but let us live by faith in the Son of God, O let this be an Agrivation of our condemna<g ref="char:EOLhyphen"/>tion, that we have had a Saviour offered us, but we have wilfully rejected him; but grant Lord that we may heartily and thankfully accept of that Redemp<g ref="char:EOLhyphen"/>tion which he has purchaſed for us, grant that we may Receive and Embrace him upon ſuch terms as he is offered to us in the Goſpel. O let Chriſt be moſt precious in our eyes, yea more precious than thouſands of Gold and ſilver, and grant that we may eſteem all the Riches, and all the Proſits of this world to be but as droſs and dung in compariſon of Chriſt, for what ſhall it profit us if we ſhould gain all the Ri<g ref="char:EOLhyphen"/>ches and all the pleaſures of this world, &amp; at laſt looſe Chriſt and our Immortal Souls, and how miſerable will our condition be if we ſhould dye in a Chriſtleſs eſtate, Lord we proy thee Vnite us to Chriſt by ſaith that we may be one with Chriſt, and Chriſt with us, and wean our hearts, we beſeech thee, from the love of all earthly things, and continually live and con<g ref="char:EOLhyphen"/>verſe with thee abode, while we walk and act hers upon <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lord we humbly beg of thee that thou <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> work in us a godly ſorrow for all our ſin paſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> heartily Repent us that ever we ſhould be ſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to Offend ſo good and gracious a God as then <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, grant Lord that we may have ſin with a
+<pb n="22" facs="tcp:37354:13"/>perfect hatred, let it be moſt vile in our eyes, grant Lord that we may put the knife of Mortification to the threat of our beloved Luſt, grant that we may learn to cut off our right hand ſins, and pluck out our right eye ſins. O that thou wouldſt be pleaſed to give us a new Nature, and make holyneſs be Natu<g ref="char:EOLhyphen"/>ral cours, even as ſin has been Natural to us, molify we beſeech thee, our hard hearts, and write thy laws upon them, change, we beſéech thee, our natures and renew our Wills, &amp; confirm them to thy holy and heavenly will, &amp; grant us the guidance and aſſiſtance of thy holy Spirit, that we may yield hearty and ſin<g ref="char:EOLhyphen"/>cere obedience to thy will, let us not any longer allow our ſelves in the commition of any known ſin, nor in the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of any known duty, and grant that we may hence forth ſo fight againſt Sin, &amp; reſiſt all temptations of the Devil, the Fleſh, and the World that ſin more &amp; more dying &amp; delaying in us, grace &amp; holineſs, may more and more, grow, and increaſe in us, that going on from one degrée of grace to ano<g ref="char:EOLhyphen"/>ther grace at laſt may he perfect &amp; compleated in glory, And Lord we humbly pray thee <hi>that thou wouldſt look with an eye of pitty and compaſſion upon this ſinful Nation unto which we belong, we muſt con<g ref="char:EOLhyphen"/>feſs that we have been a diſobedient and gainſaying people, thy mercys would neither win us, nor yet thy Judgment awaken us, nor none of thy Acts of Providence would any ways work upon us, but we have gone on obſtinately in our Rebelli<gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> againſt thee,</hi> ſo that thou mighteſt long <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re this <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have firſtly delivered us up as a pray to our Enemies, and ſeeing thou haſt yet ſpared us, turn us we beſeech
+<pb n="23" facs="tcp:37354:13"/>thee from the evil of our ways, that thou mayſt turn away from the fearceneſs of thy wrath that we pe<g ref="char:EOLhyphen"/>riſh not, ſit and prepare us for merrys, and then be<g ref="char:EOLhyphen"/>ſtow them on thus Bleſs we beſeech thee the Kings Majeſty both at home and abroad, give him Victory and Succeſs over all his Enemies, bring to naught we beſeech thee thoſe Plots and Conſpiraces, which are continued againſt him, bleſs him in his Royall Confort Queen <hi>Mary,</hi> make them both eminent in<g ref="char:EOLhyphen"/>ſtruments of thy honour and glory, and the good of thy Church, give them we pray thee a long and pro<g ref="char:EOLhyphen"/>ſperous Reign over us here on earth, and at laſt to Crown them with Everlaſting Glory in the life to come. Conſider, we beſeech thee all ſuch as ſuffer any kind of affliction, whether of Body or Mind, ſanctify, we beſeech thee, afflictions unto them, that they may work for them a far more excéeding and e<g ref="char:EOLhyphen"/>ternal wait of Glory. And as thou haſt hitheres preſerved us from our Infancy unto this preſent day and hour, ſo we beſeech thee continue thy care over us, watch over us by thy divine providence, and command thy holy Angels to pitch their tents round about us for our Defence and Safety, bleſs us, we beſeech thee, both in our going out and coming in, both in our lying down and riſing up, that whe<g ref="char:EOLhyphen"/>ther we ſleep or wake, live or dye, we may be alway thine, and Lord we pray thee make us ſo wiſe as that we may know and conſider in this our day of Vi<g ref="char:EOLhyphen"/>ſitation, theſe things which concern our everlaſting peace, before way are hid from our eyes, O let it be enough and too much that we have ſpent ſo much of our time in gratifying the fleſh, in living to our
+<pb n="24" facs="tcp:37354:14"/>ſelves, and in ſerving of Sin and Satan, and grant that we may ſpend the remainder of our days in thy Service, in working out our Salvation, and labour<g ref="char:EOLhyphen"/>ing by all diligence to make ſure of Everlaſting life, and grant that we may live every day as if it were our laſt day, and ſo Order our thoughts, words and actions, ſo that we may give up our accounts at laſt with joy, and inherit everlaſting life, theſe bleſſings and what ever elſe thou knoweſt requiſite and ne<g ref="char:EOLhyphen"/>ceſſary for us, we humbly beg and crave at thy hands upon the account, and through the merits of Ieſus Chriſt our Lord and only Saviour, in whoſe name and words we furder call upon thee, as he himſelf hath taught us, ſaying, <hi>Our Father,</hi> &amp;c.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:37354:14"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
